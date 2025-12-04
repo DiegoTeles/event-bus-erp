@@ -29,8 +29,7 @@ nvm use
 ### 1. Clone o repositório
 
 ```bash
-git clone <url-do-repositorio>
-cd lead-test
+git clone git@github.com:DiegoTeles/event-bus-erp.git
 ```
 
 ### 2. Configure a versão do Node.js (se usar nvm)
