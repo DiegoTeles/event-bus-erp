@@ -808,8 +808,8 @@ A IA foi utilizada para:
 - Criação da documentação do swagger
 - Revisão dos diagramas do Mermaid
 - Revisão de documentação (README)
-- Geração de testes unitários
-- Refatoração de componentes para clean architecture
+- Revisão dos testes unitários
+- Verificação de padrões de clean architecture no front
 
 ## Papel de Fullstack Tech Lead
 
